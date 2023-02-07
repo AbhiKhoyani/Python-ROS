@@ -1,0 +1,3 @@
+numpy==1.24.1
+ros-numpy==0.0.5
+rosbag==1.15.15
